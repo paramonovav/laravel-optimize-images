@@ -1,2 +1,4 @@
-# command-optimize-images
-Optimize images artisan command for Laravel 4
+Optimize Images
+================
+
+Laravel 4 artisan command for optimize images (jpg, png).
