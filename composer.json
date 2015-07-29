@@ -1,0 +1,22 @@
+{
+    "name": "paramonovav/laravel-optimize-images",
+    "description": "Optimize images command for Laravel 4",
+    "keywords": ["laravel", "optimize", "images", "command", "artisan"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anton Paramonov",
+            "email": "paramonovav@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Paramonovav\\LaravelOptimizeImages": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
