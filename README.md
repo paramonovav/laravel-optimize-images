@@ -19,7 +19,7 @@ After updating composer, add the ServiceProvider to the providers array in app/c
 'Paramonovav\LaravelOptimizeImages\LaravelOptimizeImagesServiceProvider',
 ```
 
-~~You need to publish the config from this package.~~
+You need to publish the config from this package.
 
 ```
 php artisan config:publish paramonovav/laravel-optimize-images
@@ -27,7 +27,7 @@ php artisan config:publish paramonovav/laravel-optimize-images
 
 ### Installation "jpegoptim" and "optipng" on MacOS X
 
-Isntalling with [brew](http://brew.sh/)
+Installing with [brew](http://brew.sh/)
 
 ```
 brew install jpegoptim optipng
@@ -35,7 +35,7 @@ brew install jpegoptim optipng
 
 ### Installation "jpegoptim" and "optipng" on CentOS with yum
 
-Isntalling with yum package manager
+Installing with yum package manager
 
 ```
 yum install jpegoptim optipng -y
