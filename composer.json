@@ -6,7 +6,9 @@
     "authors": [
         {
             "name": "Anton Paramonov",
-            "email": "paramonovav@gmail.com"
+            "email": "paramonovav@gmail.com",
+            "homepage": "http://paramonovav.com",
+            "role": "Developer"
         }
     ],
     "require": {
