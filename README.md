@@ -1,5 +1,6 @@
 Optimize Images
 ================
+[![Latest Stable Version](https://poser.pugx.org/paramonovav/laravel-optimize-images/v/stable)](https://packagist.org/packages/paramonovav/laravel-optimize-images) [![Total Downloads](https://poser.pugx.org/paramonovav/laravel-optimize-images/downloads)](https://packagist.org/packages/paramonovav/laravel-optimize-images) [![Latest Unstable Version](https://poser.pugx.org/paramonovav/laravel-optimize-images/v/unstable)](https://packagist.org/packages/paramonovav/laravel-optimize-images) [![License](https://poser.pugx.org/paramonovav/laravel-optimize-images/license)](https://packagist.org/packages/paramonovav/laravel-optimize-images)
 
 Artisan command for Laravel 4 to optimize your images using [jpegoptim](http://freecode.com/projects/jpegoptim ) and [optipng](http://optipng.sourceforge.net/).
 
